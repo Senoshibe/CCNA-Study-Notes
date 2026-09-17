@@ -1,0 +1,6 @@
+| Mode | Access Method | Prompt Example | Exit Method | About This Mode |
+| :--- | :--- | :--- | :--- | :--- |
+| User EXEC Mode | Begin a session with your device. | Switch> | Enter logout, exit, or quit. | Use this mode to change terminal settings, perform basic connectivity tests, or display system information. |
+| Privileged EXEC Mode | While in user EXEC mode, enter the enable command. | Switch# | Enter disable or exit. | Use this mode to verify commands that you have entered and to enter configuration modes. Use a password to protect access to this mode. |
+| Global Configuration Mode | While in privileged EXEC mode, enter the configure terminal command. | Switch(config)# | To return to Privileged EXEC Mode, enter exit or end, or press Ctrl-Z. | Use this mode to configure parameters that apply to the entire device. |
+| Interface Configuration Mode | While in global configuration mode, enter the interface command followed by interface label of the interface you wish to configure. | Switch(config-if)# | To return to the Global Configuration Mode, type exit. Then to return to the Privileged EXEC mode, press Ctrl-Z or type exit or end. | Use this mode to configure parameters for the device interfaces. |
