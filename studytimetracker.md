@@ -24,3 +24,17 @@
   - [x] Cisco IOS Software Modes
   - [x] Get Started with Cisco CLI
   - [x] Summary
+
+
+# 09/18/28:
+
+## Time Logged
+- **Session 1:** 17 minutes
+
+
+## Tasks Completed
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 1: Operating Cisco IOS Software**
+- [x] Post-Assessment (score 8/18)
+- 
+
+
