@@ -30,11 +30,16 @@
 
 ## Time Logged
 - **Session 1:** 17 minutes
+- ** Session 2:** 42 minutes
+- ** Session 3:** 1h 15minutes
 
 
 ## Tasks Completed
 - [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 1: Operating Cisco IOS Software**
-- [x] Post-Assessment (score 8/18)
-- 
+- [x] Post-Assessment attempt 1: (score 8/18)
+- [x] Post-Assessment attempt 2: (score 9/18)
+- [x] Completed Cisco IOS Lab
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
+- [x] Introducing LANS
 
 
