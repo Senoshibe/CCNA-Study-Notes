@@ -30,8 +30,9 @@
 
 ## Time Logged
 - **Session 1:** 17 minutes
-- ** Session 2:** 42 minutes
-- ** Session 3:** 1h 15minutes
+- **Session 2:** 42 minutes
+- **Session 3:** 1h 15minutes
+- **Session 4:** 25 minutes
 
 
 ## Tasks Completed
