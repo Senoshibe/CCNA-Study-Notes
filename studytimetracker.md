@@ -60,6 +60,8 @@
 
 ## Time Logged
 
+- **Session 1: ** 2h 10m
+
 ## Tasks Completed
 - [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
     - [x] Exploring the TCP/IP Link Layer
