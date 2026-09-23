@@ -153,6 +153,6 @@ About 5h25m saved. These are low-weight or describe-level topics on v1.1.
 ## Catch-up rules
 
 - **Missed a day:** spread its items across the next 3 days. 7 Oct is the buffer.
-- **Ahead of plan:** pull the next day's items forward. Use freed time on the skipped list or a 3rd ExSim exam.
+- **Ahead of plan:** pull the next day's items forward. Use freed time on 3rd or more ExSim exam papers and mock CCNA exams. Only go through skimed content as last resort and briefly touch on them.
 - **Never cut:** subnetting, OSPF, STP, ACLs, NAT, the 2 practice exams.
 - **If desperate:** cut the M11 and M9 skims first, then the M7 skims.

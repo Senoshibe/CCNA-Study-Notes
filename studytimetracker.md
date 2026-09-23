@@ -61,6 +61,7 @@
 ## Time Logged
 
 - **Session 1: ** 2h 10m
+- **Session 2: ** 15m
 
 ## Tasks Completed
 - [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
@@ -76,3 +77,9 @@
         - [x] Switch LED Indicators
         - [x] Basic show Commands and Information
         - [x] Perform Basic Switch Configuration
+    - [ ] Explaining Wireless Fundamentals
+        - [x] Introduction
+        - [x] Wireless Technologies
+        - [x] Wireless Radio Communication
+        - [x] WLAN Architectures
+        - [x] Wi-Fi Channels
