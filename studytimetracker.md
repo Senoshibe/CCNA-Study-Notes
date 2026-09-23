@@ -65,4 +65,12 @@
     - [x] Exploring the TCP/IP Link Layer
         - [x] Lab
         - [x] Duplex Communication
-- [] 
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
+    - [x] Starting a Switch
+        - [x] Introduction
+        - [x] Switch Installation 
+        - [x] Conencting to a Console Port
+        - [x] Switch Components
+        - [x] Switch LED Indicators
+        - [x] Basic show Commands and Information
+        - [x] Perform Basic Switch Configuration
