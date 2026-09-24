@@ -59,7 +59,6 @@
 # 09/23/28:
 
 ## Time Logged
-
 - **Session 1: ** 2h 10m
 - **Session 2: ** 15m
 
@@ -77,9 +76,28 @@
         - [x] Switch LED Indicators
         - [x] Basic show Commands and Information
         - [x] Perform Basic Switch Configuration
-    - [ ] Explaining Wireless Fundamentals
+    - [x] Explaining Wireless Fundamentals
         - [x] Introduction
         - [x] Wireless Technologies
         - [x] Wireless Radio Communication
         - [x] WLAN Architectures
         - [x] Wi-Fi Channels
+
+# 09/23/28:
+
+## Time Logged
+- **Session 1: ** 2h 30m
+
+## Tasks Completed
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
+    - [x] Explaining Wireless Fundamentals
+        - [x] AP and WLC Management
+        - [x] All Lab exercises
+    - [x] Post Assessment
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
+    - [x] Pre-assessment
+    - [x] Introducing the TCP/IP Internet Layer, IPv4 Addressing, and Subnets
+    - [ ] Explaining the TCP/IP Transport Layer and Application Layer
+        - [x] Introduction
+        - [x] TCP/IP Transport Layer Functions
+        - [x] Reliable vs. Best-Effort Transport
