@@ -83,7 +83,7 @@
         - [x] WLAN Architectures
         - [x] Wi-Fi Channels
 
-# 09/23/28:
+# 09/24/28:
 
 ## Time Logged
 - **Session 1: ** 2h 30m
