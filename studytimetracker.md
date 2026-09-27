@@ -97,7 +97,24 @@
 - [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
     - [x] Pre-assessment
     - [x] Introducing the TCP/IP Internet Layer, IPv4 Addressing, and Subnets
-    - [ ] Explaining the TCP/IP Transport Layer and Application Layer
+    - [x] Explaining the TCP/IP Transport Layer and Application Layer
         - [x] Introduction
         - [x] TCP/IP Transport Layer Functions
         - [x] Reliable vs. Best-Effort Transport
+
+# 09/26/28:
+
+## Time Logged
+- **Session 1: ** 2h 00m
+
+## Tasks Completed
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
+    - [ ] Explaining the TCP/IP Transport Layer and Application Layer
+        - [x] TCP Characteristics
+        - [x] UDP Characteristics
+        - [x] TCP/IP Application Layer
+        - [x] Introducing HTTP
+        - [x] Domain Name System
+        - [x] Explaining DHCP for IPv4
+        - [x] Lab
+
