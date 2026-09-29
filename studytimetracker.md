@@ -118,3 +118,27 @@
         - [x] Explaining DHCP for IPv4
         - [x] Lab
 
+# 09/27/28:
+
+## Time Logged
+- **Session 1: ** 1h 30m
+
+## Tasks Completed
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
+    - [x] Explaining the TCP/IP Transport Layer and Application Layer
+
+# 09/29/28:
+
+## Time Logged
+- **Session 1: ** 3h 00m
+
+## Tasks Completed
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
+    - [x] Configuring a Cisco Router
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
+    - [x] Introducing Basic IPv6
+        - [x] Introduction
+        - [x] IPv4 Address Exhaustion Workarounds
+        - [x] IPv6 Features
+        - [x] IPv6 Addresses and Address Types
+        - [x] Comparison of IPv4 and IPv6 Headers
