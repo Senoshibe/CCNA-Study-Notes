@@ -142,3 +142,30 @@
         - [x] IPv6 Features
         - [x] IPv6 Addresses and Address Types
         - [x] Comparison of IPv4 and IPv6 Headers
+
+# 09/30/28:
+
+## Time Logged
+- **Session 1: ** 1h 40m
+
+## Tasks Completed
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
+    - [x] Introducing Basic IPv6
+        - [x] Internet Control Message Protocol Version 6
+        - [x] Neighbor Discovery
+        - [x] IPv6 Address Allocation
+
+# 10/01/28:
+
+## Time Logged
+- **Session 1: ** 1h 00m
+- **Session 2: ** 
+
+## Tasks Completed
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
+    - [x] Introducing Basic IPv6
+        - [x] Configure Basic IPv6 Connectivity (lab)
+        - [x] Verification of End-To-End IPv6 Connectivity
+        - [x] Summary
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 4: Layer 2 Protocols and Technologies**
+    - 
