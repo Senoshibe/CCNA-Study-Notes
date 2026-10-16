@@ -168,4 +168,29 @@
         - [x] Verification of End-To-End IPv6 Connectivity
         - [x] Summary
 - [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 4: Layer 2 Protocols and Technologies**
-    - 
+
+# 10/17/28:
+
+##  Time Logged
+- **Session 1: ** 1h 30m
+
+## Tasks Completed
+- [x] Introduction (1min)
+     - [x] How to Make the Most of This Course (6min)
+     - [x] Course Material Download (1min)
+     - [x] The Study Plan (5min)
+     - [x] The Udemy Interface (4min)
+     - [x] Why Passing the CCNA is Going to Turbo Charge Your Career (4min)
+     - [x] IMPORTANT: CCNA v2.0 Update - Coming February 2027 (10min)
+
+- [x] Section 2: How to Use the Lab Exercises and Anki Flashcards
+
+     - [x] How to Use the Lab Exercises and Anki Flashcards Introduction (1min)
+     - [x] Cisco Packet Tracer Installation (7min)
+     - [x] Packet Tracer Installation Notes and FAQ (3min)
+     - [x] How to Use the Course Lab Exercises (9min)
+     - [x] How to Use the Anki Flashcards (9min)
+
+- [x] Setup lab environment for Packet Tracer
+
+- [x] Setup Anki flash cards
