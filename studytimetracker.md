@@ -194,3 +194,28 @@
 - [x] Setup lab environment for Packet Tracer
 
 - [x] Setup Anki flash cards
+
+# 10/17/28:
+
+##  Time Logged
+- **Session1: ** 1h 30m
+
+## Tasks Completed
+- [x] Section 3: Host to Host Communications
+    - [x] Introduction (1min)
+    - [x] A (Very) Basic Introduction to Networking (6min)
+    - [x] The OSI Reference Model Overview (9min)
+    - [x] The TCP/IP Stack (5min)
+    - [x] The Upper OSI Layers (3min)
+    - [x] The Lower OSI Layers (5min)
+
+- [x] Section 4: The Cisco IOS Operating System
+    - [x] Introduction (1min)
+    - [x] Cisco Operating Systems (5min)
+    - [x] Connecting to a Cisco Device over the network (11min)
+    - [x] Making the Initial Connection to a Cisco Device (11min)
+    - [x] Navigating the Cisco IOS Operating System Part 1 (10min)
+
+- [x] Section 3 Anki Flash Cards - All Complete Through Spaced Repetition (due in 2 days)
+
+- [x] Section 4 Anki Flash Cards - All Complete Through Spaced Repetition (due in 2 days)
