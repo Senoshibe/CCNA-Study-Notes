@@ -198,7 +198,7 @@
 # 10/17/28:
 
 ##  Time Logged
-- **Session1: ** 1h 30m
+- **Session 1: ** 1h 30m
 
 ## Tasks Completed
 - [x] Section 3: Host to Host Communications
@@ -216,6 +216,22 @@
     - [x] Making the Initial Connection to a Cisco Device (11min)
     - [x] Navigating the Cisco IOS Operating System Part 1 (10min)
 
-- [x] Section 3 Anki Flash Cards - All Complete Through Spaced Repetition (due in 2 days)
+- [x] Section 3 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
 
-- [x] Section 4 Anki Flash Cards - All Complete Through Spaced Repetition (due in 2 days)
+- [x] Section 4 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
+
+# 10/18/28:
+
+##  Time Logged
+- **Session 1: ** 00h 20m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 2 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 2 - All Complete Through Spaced Repetition
+
+# 10/19/28:
+
+##  Time Logged
+- **Session 1: ** 00h 00m
+
+## Tasks Completed
