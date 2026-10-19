@@ -24,7 +24,7 @@
   - [x] Summary
 
 
-# 09/18/28:
+# 09/18/26:
 
 ## Time Logged
 - **Session 1:** 17m
@@ -42,21 +42,21 @@
 - [] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
     - [x] Introducing LANS
 
-# 09/22/28:
+# 09/22/26:
 
 ## Time Logged
 - **Session 1: ** 3h 30m
 
 ## Tasks Completed
-- [] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
-    - [] Exploring the TCP/IP Link Layer
+- [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 2: Network Access**
+    - [x] Exploring the TCP/IP Link Layer
         - [x] Intro
         - [x] Ethernet LAN Connection Media
         - [x] LAN Communications Types
         - [x] MAC Addresses
         - [x] Frame Switching
 
-# 09/23/28:
+# 09/23/26:
 
 ## Time Logged
 - **Session 1: ** 2h 10m
@@ -83,7 +83,7 @@
         - [x] WLAN Architectures
         - [x] Wi-Fi Channels
 
-# 09/24/28:
+# 09/24/26:
 
 ## Time Logged
 - **Session 1: ** 2h 30m
@@ -102,7 +102,7 @@
         - [x] TCP/IP Transport Layer Functions
         - [x] Reliable vs. Best-Effort Transport
 
-# 09/26/28:
+# 09/26/26:
 
 ## Time Logged
 - **Session 1: ** 2h 00m
@@ -118,7 +118,7 @@
         - [x] Explaining DHCP for IPv4
         - [x] Lab
 
-# 09/27/28:
+# 09/27/26:
 
 ## Time Logged
 - **Session 1: ** 1h 30m
@@ -127,7 +127,7 @@
 - [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 3: IP Addressing**
     - [x] Explaining the TCP/IP Transport Layer and Application Layer
 
-# 09/29/28:
+# 09/29/26:
 
 ## Time Logged
 - **Session 1: ** 3h 00m
@@ -143,7 +143,7 @@
         - [x] IPv6 Addresses and Address Types
         - [x] Comparison of IPv4 and IPv6 Headers
 
-# 09/30/28:
+# 09/30/26:
 
 ## Time Logged
 - **Session 1: ** 1h 40m
@@ -155,7 +155,7 @@
         - [x] Neighbor Discovery
         - [x] IPv6 Address Allocation
 
-# 10/01/28:
+# 10/01/26:
 
 ## Time Logged
 - **Session 1: ** 1h 00m
@@ -169,7 +169,7 @@
         - [x] Summary
 - [x] **Cisco U. Implementing and Administering Cisco Solutions 200-301 CCNA v1.1 Module 4: Layer 2 Protocols and Technologies**
 
-# 10/17/28:
+# 10/17/26:
 
 ##  Time Logged
 - **Session 1: ** 1h 30m
@@ -195,7 +195,7 @@
 
 - [x] Setup Anki flash cards
 
-# 10/17/28:
+# 10/17/26:
 
 ##  Time Logged
 - **Session 1: ** 1h 30m
@@ -220,7 +220,7 @@
 
 - [x] Section 4 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
 
-# 10/18/28:
+# 10/18/26:
 
 ##  Time Logged
 - **Session 1: ** 00h 20m
@@ -232,6 +232,18 @@
 # 10/19/28:
 
 ##  Time Logged
-- **Session 1: ** 00h 00m
+- **Session 1: ** 1h 30m
 
 ## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
+- [x] Section 4: The Cisco IOS Operating System
+    - [x] Navigating the Cisco IOS Operating System Part 2 (11min)
+    - [x] Cisco IOS Configuration Management (9min)
+    - [x] The IOS Operating System - Lab Exercises (1m)
+
+- [x] Section 5: OSI Layer 4 - The Transport Layer
+    - [x] Introduction (1min)
+    - [x] The Transport Layer Header, TCP and UDP (13min)
+- [x] 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 5: Mind Dump session in CCNAstudynotes.md
+- [x] Section 5 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
