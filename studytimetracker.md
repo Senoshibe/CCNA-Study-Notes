@@ -233,7 +233,7 @@
 
 ##  Time Logged
 - **Session 1: ** 1h 30m
-- **Session 2: ** 
+- **Session 2: ** 1h 00m
 
 ## Tasks Completed
 - [x] Section 3 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
@@ -246,5 +246,16 @@
 - [x] Section 5: OSI Layer 4 - The Transport Layer
     - [x] Introduction (1min)
     - [x] The Transport Layer Header, TCP and UDP (13min)
+    
+- [x] Section 6: OSI Layer 3 - The Network Layer
+    - [x] Introduction
+    - [x] The IP Header
+    - [x] Uniast, Broadcast and Multicast Traffic
+    - [x] Converting from Decimal to Binary
+    - [x] IPv4 Addresses
+    - [x] Calculating an IPv4 Address in Binary
+    - [x] The Subnet Mask
+
+
 - [x] 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 5: Mind Dump session in CCNAstudynotes.md
 - [x] Section 5 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
