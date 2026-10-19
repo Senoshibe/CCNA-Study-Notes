@@ -233,6 +233,7 @@
 
 ##  Time Logged
 - **Session 1: ** 1h 30m
+- **Session 2: ** 
 
 ## Tasks Completed
 - [x] Section 3 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition

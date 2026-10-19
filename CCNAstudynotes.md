@@ -36,7 +36,7 @@ TCP & UDP:
     DNS: ?
 
 # Review of Mind Dump:
-## ✅ What I got right
+# ✅ What I got right
 * TCP and UDP are both Layer 4 (Transport Layer) protocols.
 * TCP retransmits lost data and delivers it in order; UDP does neither.
 * Voice/video typically use UDP.
@@ -44,7 +44,7 @@ TCP & UDP:
 * Port numbers for FTP (21), SSH (22), Telnet (23), HTTP (80), HTTPS (443), TFTP (69, UDP).
 * Good instinct on firewalls only allowing return traffic for sessions started from inside.
 
-## ❌ Corrections
+# ❌ Corrections
 **1. TCP is NOT best effort. TCP = reliable, connection-oriented. UDP = best effort, connectionless.**
 
 * TCP always does error recovery (ACKs + retransmission), not "sometimes".
@@ -102,7 +102,34 @@ TCP & UDP:
 | HTTPS | 443 | TCP |
 | Syslog | 514 | UDP |
 
-## 📌 Weak areas → add to revisionareas.md
+# 📌 Weak areas → add to revisionareas.md
 * TCP vs UDP: which one is "reliable" vs "best effort" (I mixed these up)
 * Client vs server ports (ephemeral vs well-known)
 * DNS / DHCP / SNMP / Syslog / NTP port numbers
+
+## 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 6: Mind Dump
+#Revision of what I've learnt from video to see if I understand....
+
+# Binary
+Calculated 179 in binary to be 010110011, moving on.
+
+# IPv4 Addresses
+Format is always 4 Octects. Octets because there are 8 bits in each octet. 
+For example: 192.168.10.15 > 11000000.10101000.00001010.00001111
+
+# Subnet Mask
+
+With the example of the IP address: 192.168.10.15 with the subnet mask 255.255.255.0 i.e. 192.168.10.15/255.255.255.0
+
+in binary, 255.255.255.0 can be represented as 11111111.11111111.11111111.00000000
+
+The bits of the IPv4 address that correspond to the 1s of the subnet mask represent the first portion of the network address. And the rest you fill with zeros. In other words, 192.168.10.15 is a part of the subnet with network address 192.168.10.0 due to the subnet mask being 255.255.255.0.
+If the subnet mask was 255.255.0.0, the network address would be 192.168.0.0
+
+Same rule applies with the broadcast address, whereby instead the 2nd part of the broadcast address of the subnet is replaced with 255. i.e. 192.168.10.15 is a part of the subnet with broadcast address 192.168.10.255 due to the subnet mask being 255.255.255.0. 
+If the subnet mask was 255.255.0.0, the broadcast address is 192.168.255.255
+
+Any IPv4 address prepended with the network address is a part of the same network address. For example 192.168.10.1, 192.168.10.2.... 192.168.10.254 - Except of course the addresses 192.168.10.0 and 192.168.10.255 addresses, as they are the network address and broadcast address respectively.
+i.e. Any endpoint (e.g. printer, switch etc) will have an IP address between 192.168.10.1 and 192.168.10.254 if the subnet mask is 255.255.255.0
+
+The network address is just so you can identify the IP address to its subnet group, whereas the broadcast address is necessary so that you can send data through the network to all IP addresses in the same subnet group.
