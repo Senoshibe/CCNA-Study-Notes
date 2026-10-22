@@ -259,3 +259,22 @@
 
 - [x] 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 5: Mind Dump session in CCNAstudynotes.md
 - [x] Section 5 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
+
+# 10/21/28:
+
+##  Time Logged
+- **Session 1: ** 00h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 4 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 4 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 2 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
+
+# 10/22/28:
+
+##  Time Logged
+- **Session 1: ** 1h 30m
+
+## Tasks Completed

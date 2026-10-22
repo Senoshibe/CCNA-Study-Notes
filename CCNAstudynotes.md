@@ -132,4 +132,15 @@ If the subnet mask was 255.255.0.0, the broadcast address is 192.168.255.255
 Any IPv4 address prepended with the network address is a part of the same network address. For example 192.168.10.1, 192.168.10.2.... 192.168.10.254 - Except of course the addresses 192.168.10.0 and 192.168.10.255 addresses, as they are the network address and broadcast address respectively.
 i.e. Any endpoint (e.g. printer, switch etc) will have an IP address between 192.168.10.1 and 192.168.10.254 if the subnet mask is 255.255.255.0
 
-The network address is just so you can identify the IP address to its subnet group, whereas the broadcast address is necessary so that you can send data through the network to all IP addresses in the same subnet group.
+The network address is just so you can identify the IP address to its subnet group, whereas the broadcast address is necessary so that you can send data through the network to all IP addresses in the same subnet group.\
+
+## 10/22/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 6: Mind Dump
+
+# Slash Notation
+
+Simply count the number of ones in the subnet mask.
+
+For example if subnet mask is 255.255.255.0, the binary conversion is 11111111.11111111.11111111.0, which has 24 ones and therefore the subnet mask can be represented as /24.
+
+i.e. With the example of the IP address: 192.168.10.15 with the subnet mask 255.255.255.0
+It is equivalent to 192.168.10.15/24
