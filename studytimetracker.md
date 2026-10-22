@@ -275,7 +275,7 @@
 # 10/22/28:
 
 ##  Time Logged
-- **Session 1: ** 1h 30m
+- **Session 1: ** 1h 45m
 
 ## Tasks Completed
 - [x] Section 6 Anki Flash Cards Attempt 2 - All Complete Through Spaced Repetition
