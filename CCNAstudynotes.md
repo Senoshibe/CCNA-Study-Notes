@@ -164,3 +164,44 @@ Here's a table with another example of **Network Portion** and **Host Portion** 
 
 - **Network portion:** 192.168.10 (24 bits)
 - **Host portion:** 15 (8 bits)
+
+## Dotted Decimal Notation vs Binary Notation vs Slash Notation
+255.255.255.0 vs 11111111.11111111.11111111.00000000 vs /24
+
+## Loopback Addresses (Class A)
+This address is used for testing the local computer. For example, pinging 127.0.0.1 tests whether the TCP/IP Protocol works from your endpoint. 
+
+127.0.0.0/8 is reserved for the loopback address.
+127.0.0.0 is the network address
+127.255.255.255 is the broadcast address
+127.0.0.1 is the primary host address hence why it's used for testing. 
+
+| Address | Use case |
+|---|---|
+| **127.0.0.0** (network address) | **No practical use.** It identifies the 127.0.0.0/8 block in routing tables. It is not assigned to the device and you cannot send traffic to it. |
+| **127.255.255.255** (broadcast address) | **No practical use.** It is a valid broadcast address under the standard /8 calculation, but loopback has only one device (your own), so there is nothing else to broadcast to. On Linux it appears in the local routing table as a broadcast entry. |
+| **127.0.0.1** | The standard loopback address, also called **localhost**. It is used for testing the TCP/IP stack and for local services, such as the Duo Endpoint Health service on your Mac. |
+| **Other 127.x.x.x** | On Linux, the whole range works by default. For example, Ubuntu maps the hostname to 127.0.1.1, and systemd-resolved uses 127.0.0.53. On macOS, only 127.0.0.1 is configured by default. Other addresses must be added manually, for example with `sudo ifconfig lo0 alias 127.0.0.2`. |
+
+## 'This Network' Address
+0.0.0.0/8 is reserved for 'this network' 
+
+**Official names in the IANA special-purpose address registry:**
+
+- **0.0.0.0/8** is called **"This network"**
+
+**Common informal names for 0.0.0.0:**
+
+- **Unspecified address**
+- **Wildcard address** (in programming it is called `INADDR_ANY`)
+
+**Rule:** 0.0.0.0 can be used as a **source** address only. It must never be used as a **destination**.
+
+| Use | How 0.0.0.0 is used |
+|---|---|
+| **DHCP** | A device with no IP address sends a DHCP Discover from source **0.0.0.0** to destination **255.255.255.255**. |
+| **Server listening** | A service bound to **0.0.0.0** listens on every IPv4 address on the device. A service bound to **127.0.0.1** listens only locally. |
+| **Default route** | **0.0.0.0/0** matches all destinations. It is configured on Cisco IOS as `ip route 0.0.0.0 0.0.0.0 <next-hop>`. This is a /0 prefix, not the /32 address. |
+| **Cisco ACL wildcard** | `0.0.0.0 255.255.255.255` means "any address". |
+| **Hosts file blocking** | Mapping a domain to 0.0.0.0 makes connections to it fail immediately. |
+| **0.x.x.x (other than 0.0.0.0)** | Originally defined as "a specific host on this network". It is not used today. |

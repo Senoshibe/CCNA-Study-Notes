@@ -278,3 +278,11 @@
 - **Session 1: ** 1h 30m
 
 ## Tasks Completed
+- [x] Section 6 Anki Flash Cards Attempt 2 - All Complete Through Spaced Repetition
+
+- [x] Section 6: OSI Layer 3 - The Network Layer
+    - [x] Slash Notation
+
+- [x] Section 7: IP Address Classes
+    - [x] Introduction
+    - [x] Class A IP Addresses
