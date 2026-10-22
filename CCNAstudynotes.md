@@ -210,3 +210,15 @@ This address is used for testing the local computer. For example, pinging 127.0.
 | **Cisco ACL wildcard** | `0.0.0.0 255.255.255.255` means "any address". |
 | **Hosts file blocking** | Mapping a domain to 0.0.0.0 makes connections to it fail immediately. |
 | **0.x.x.x (other than 0.0.0.0)** | Originally defined as "a specific host on this network". It is not used today. |
+
+## Subnetting
+
+If a company receives 15.0.0.0/8 as their network address, then that would mean it's possible to allocate 16,777,214 hosts to a single logical network, which would be terrible for performance and security. 
+
+So instead, it's possible to split these hosts into groups.
+e.g.
+15.0.1.0/24 could be allocated to computers in Sales in New York
+15.0.2.0/24 could be allocated to computers in Accounting 
+and 15.0.9.0/24 could be allocated to computers in Sales in Boston
+
+This splitting of IP addresses into groups is callled **Subnetting**
