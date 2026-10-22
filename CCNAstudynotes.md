@@ -1,6 +1,6 @@
-## 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 5: Mind Dump
+# 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 5: Mind Dump
 #Revision of what I've learnt from video to see if I understand....
-# TCP/UDP and the Transport Layer
+## TCP/UDP and the Transport Layer
 TCP and UDP live in the transport layer. 
 TCP is best effort, meaning there's flow control and sometimes checks for errors. 
 Whereas UDP is for best effort. 
@@ -9,19 +9,19 @@ UDP is mainly for video and voice as they can't afford the overhead in the heade
 
 Data sent via TCP is in sequence and any dropped packets are sent again, whereas with UDP, dropped packets are left dropped and an effort isn't made for the data to be sent in sequence. 
 
-# Multiplex Sessions
+## Multiplex Sessions
 Multiplex sessions are when a sender can have multiple sessions and send data via different protocols to different receivers at the same time. 
 
-# 3 Way Handshake
+## 3 Way Handshake
 When a sender and receiver establishes a connection, the handshake is in the followin sequence: SYN > SYN-ACK > ACK 
 Whereby, the sender attempt to sync with the receiver, the receiver acknowledges the sync, and the sender finally acknowledges (?) the connection. 
 
-# Source and Destination Ports and Protocols
+## Source and Destination Ports and Protocols
 For example when the sender sends data through a web server to receiver, the source to destination ports would be from port 80 HTTP to receiver's port e.g. port 2500, and back from 2500 to 80. 
 
 Firewalls can determine whether the transfer of data is bi-direcitonal or not. For example, it can set a rule where it allows the sender to send data to the receiver on their respective ports, however, the receiver cannot send data to sender. Or it can allow the sending of data from receiver to sender, under the condition that the sender has sent data to receiver in the same session.
 
-# Port Numbers and their Protocols
+## Port Numbers and their Protocols
 TCP: 
     FTP: port 21
     SSH: port 22
@@ -35,8 +35,8 @@ UDP:
 TCP & UDP: 
     DNS: ?
 
-# Review of Mind Dump:
-# ✅ What I got right
+## Review of Mind Dump:
+## ✅ What I got right
 * TCP and UDP are both Layer 4 (Transport Layer) protocols.
 * TCP retransmits lost data and delivers it in order; UDP does neither.
 * Voice/video typically use UDP.
@@ -44,7 +44,7 @@ TCP & UDP:
 * Port numbers for FTP (21), SSH (22), Telnet (23), HTTP (80), HTTPS (443), TFTP (69, UDP).
 * Good instinct on firewalls only allowing return traffic for sessions started from inside.
 
-# ❌ Corrections
+## ❌ Corrections
 **1. TCP is NOT best effort. TCP = reliable, connection-oriented. UDP = best effort, connectionless.**
 
 * TCP always does error recovery (ACKs + retransmission), not "sometimes".
@@ -102,22 +102,22 @@ TCP & UDP:
 | HTTPS | 443 | TCP |
 | Syslog | 514 | UDP |
 
-# 📌 Weak areas → add to revisionareas.md
+## 📌 Weak areas → add to revisionareas.md
 * TCP vs UDP: which one is "reliable" vs "best effort" (I mixed these up)
 * Client vs server ports (ephemeral vs well-known)
 * DNS / DHCP / SNMP / Syslog / NTP port numbers
 
-## 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 6: Mind Dump
+# 10/19/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 6: Mind Dump
 #Revision of what I've learnt from video to see if I understand....
 
-# Binary
+## Binary
 Calculated 179 in binary to be 010110011, moving on.
 
-# IPv4 Addresses
+## IPv4 Addresses
 Format is always 4 Octects. Octets because there are 8 bits in each octet. 
 For example: 192.168.10.15 > 11000000.10101000.00001010.00001111
 
-# Subnet Mask
+## Subnet Mask
 
 With the example of the IP address: 192.168.10.15 with the subnet mask 255.255.255.0 i.e. 192.168.10.15/255.255.255.0
 
@@ -134,9 +134,9 @@ i.e. Any endpoint (e.g. printer, switch etc) will have an IP address between 192
 
 The network address is just so you can identify the IP address to its subnet group, whereas the broadcast address is necessary so that you can send data through the network to all IP addresses in the same subnet group.\
 
-## 10/22/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 6: Mind Dump
+# 10/22/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 6: Mind Dump
 
-# Slash Notation
+## Slash Notation
 
 Simply count the number of ones in the subnet mask.
 
@@ -144,3 +144,23 @@ For example if subnet mask is 255.255.255.0, the binary conversion is 11111111.1
 
 i.e. With the example of the IP address: 192.168.10.15 with the subnet mask 255.255.255.0
 It is equivalent to 192.168.10.15/24
+
+## Host Portion
+The host portion is where the 0s of a binary conversion of the subnet mask correspond with the IP address. e.g. if the subnet mask is 255.255.0.0, and there's a host with IP address 192.168.10.15, the host portion would be where the digits 10 and 15 are. This portion is unique per host. Meaning the hosts in this subnet have IP addresses ranging from 192.168.0.1, 192.168.0.2, 192.168.0.3 ... 192.168.255.254
+
+## Network Portion
+The network portion is where the 1s of a binary conversion of the subnet mask correspond with the IP address.
+
+Here's a table with another example of **Network Portion** and **Host Portion** of an **IP Address**
+
+## Example: 192.168.10.15 /255.255.255.0 (/24)
+
+| | Octet 1 | Octet 2 | Octet 3 | Octet 4 |
+|---|---|---|---|---|
+| IP address | 192 | 168 | 10 | 15 |
+| Mask | 255 | 255 | 255 | 0 |
+| Mask in binary | 11111111 | 11111111 | 11111111 | 00000000 |
+| Portion | Network | Network | Network | Host |
+
+- **Network portion:** 192.168.10 (24 bits)
+- **Host portion:** 15 (8 bits)
