@@ -168,6 +168,11 @@ Here's a table with another example of **Network Portion** and **Host Portion** 
 ## Dotted Decimal Notation vs Binary Notation vs Slash Notation
 255.255.255.0 vs 11111111.11111111.11111111.00000000 vs /24
 
+## Class A IPv4 Addresses
+They always start with 0 as their first bit.
+e.g. 
+01111111.00001010.00001010.00001111
+
 ## Loopback Addresses (Class A)
 This address is used for testing the local computer. For example, pinging 127.0.0.1 tests whether the TCP/IP Protocol works from your endpoint. 
 
@@ -183,7 +188,7 @@ This address is used for testing the local computer. For example, pinging 127.0.
 | **127.0.0.1** | The standard loopback address, also called **localhost**. It is used for testing the TCP/IP stack and for local services, such as the Duo Endpoint Health service on your Mac. |
 | **Other 127.x.x.x** | On Linux, the whole range works by default. For example, Ubuntu maps the hostname to 127.0.1.1, and systemd-resolved uses 127.0.0.53. On macOS, only 127.0.0.1 is configured by default. Other addresses must be added manually, for example with `sudo ifconfig lo0 alias 127.0.0.2`. |
 
-## 'This Network' Address
+## 'This Network' Address (Class A)
 0.0.0.0/8 is reserved for 'this network' 
 
 **Official names in the IANA special-purpose address registry:**
