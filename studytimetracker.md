@@ -287,3 +287,26 @@
     - [x] Introduction
     - [x] Class A IP Addresses
 
+# 11/07/28:
+
+##  Time Logged
+- **Session 1: ** 0h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 5 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 5 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 2 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 2 - All Complete Through Spaced Repetition
+
+# 11/08/28:
+
+##  Time Logged
+- **Session 1: ** 0h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 6 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 6 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 4 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
