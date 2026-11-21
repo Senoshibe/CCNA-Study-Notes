@@ -222,3 +222,10 @@ e.g.
 and 15.0.9.0/24 could be allocated to computers in Sales in Boston
 
 This splitting of IP addresses into groups is callled **Subnetting**
+
+# 11/20/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 7: Mind Dump
+
+## Class B addresses
+
+- default subnet mask if /16 (so are there Class B addresses without the /16 subnet mask?) > 
+- valid network addresses range from 128.0.0.0 to 191.255.0.0/16 (and what of addresses outside of this range?) > Probably because of Class B limitations being the first 2 bits i.e. the two high-order bits are ALWAYS set to binary 1 0.

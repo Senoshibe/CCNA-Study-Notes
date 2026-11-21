@@ -310,3 +310,40 @@
 - [x] Section 5 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
 - [x] Section 5 Anki Flash Cards Attempt 4 - All Complete Through Spaced Repetition
 - [x] Section 6 Anki Flash Cards Attempt 3 - All Complete Through Spaced Repetition
+
+# 11/09/28:
+
+## Time Logged
+- **Session 1: ** 0h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 7 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 7 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 4 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 5 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 4 - All Complete Through Spaced Repetition
+
+# 11/19/28:
+
+## Time Logged
+- **Session 1: ** 0h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 8 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 8 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 5 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 6 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 5 - All Complete Through Spaced Repetition
+
+# 11/20/28:
+
+## Time Logged
+- **Session 1: ** 0h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 9 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 9 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 6 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 7 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 6 - All Complete Through Spaced Repetition
+
