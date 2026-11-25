@@ -228,4 +228,37 @@ This splitting of IP addresses into groups is callled **Subnetting**
 ## Class B addresses
 
 - default subnet mask if /16 (so are there Class B addresses without the /16 subnet mask?) > 
-- valid network addresses range from 128.0.0.0 to 191.255.0.0/16 (and what of addresses outside of this range?) > Probably because of Class B limitations being the first 2 bits i.e. the two high-order bits are ALWAYS set to binary 1 0.
+- valid network addresses range from 128.0.0.0 to 191.255.255.255 (default subnet mask of 16, therefore network address is 191.255.0.0/16) (and what of addresses outside of this range?) > Addresses are restricted because of Class B limitations being the first 2 bits i.e. the two high-order bits are ALWAYS set to binary 1 0.
+
+## Class C addresses
+
+- default subnet mask /24
+- three high order bits: 110
+- range: 192.0.0.0 to 223.255.255.0/24
+
+## Class D addresses
+
+- reserved for IP multicast addresses
+- four high order bits: 1110
+- addresses NOT allocated to hosts and no default for subnet masks
+- addresses range between 244.0.0.0 to 239.255.255.255
+
+## Class E Addresses 
+
+- experimental and for future use 
+- high order bits are 1111
+- addresses range from 240.0.0.0 to 255.255.255.255
+- no default mask
+- only one used address: broadcast addresss: 255.255.255.255
+
+## Class A-E IP Address Range Table
+
+## The table
+
+| Class | Fixed leading bits | First octet pattern | Lowest first octet (binary → decimal) | Highest first octet (binary → decimal) | Full address range |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| A | `0` | `0xxxxxxx` | `00000000` → **0** | `01111111` → **127** | 0.0.0.0 – 127.255.255.255 |
+| B | `10` | `10xxxxxx` | `10000000` → **128** | `10111111` → **191** | 128.0.0.0 – 191.255.255.255 |
+| C | `110` | `110xxxxx` | `11000000` → **192** | `11011111` → **223** | 192.0.0.0 – 223.255.255.255 |
+| D | `1110` | `1110xxxx` | `11100000` → **224** | `11101111` → **239** | 224.0.0.0 – 239.255.255.255 |
+| E | `1111` | `1111xxxx` | `11110000` → **240** | `11111111` → **255** | 240.0.0.0 – 255.255.255.255 |
