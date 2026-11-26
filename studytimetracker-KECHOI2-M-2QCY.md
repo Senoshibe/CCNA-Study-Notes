@@ -347,3 +347,43 @@
 - [x] Section 5 Anki Flash Cards Attempt 7 - All Complete Through Spaced Repetition
 - [x] Section 6 Anki Flash Cards Attempt 6 - All Complete Through Spaced Repetition
 
+# 11/21/28:
+
+## Time Logged
+- **Session 1: ** 0h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 10 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 10 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 7 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 8 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 7 - All Complete Through Spaced Repetition
+
+# 11/22/28:
+
+## Time Logged
+- **Session 1: ** 0h 30m
+
+## Tasks Completed
+- [x] Section 3 Anki Flash Cards Attempt 11 - All Complete Through Spaced Repetition
+- [x] Section 4 Anki Flash Cards Attempt 11 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 8 - All Complete Through Spaced Repetition
+- [x] Section 5 Anki Flash Cards Attempt 9 - All Complete Through Spaced Repetition
+- [x] Section 6 Anki Flash Cards Attempt 8 - All Complete Through Spaced Repetition
+- [x] Section 7 Anki Flash Cards Attempt 1 - All Complete Through Spaced Repetition
+
+# 11/26/28:
+
+## Time Logged
+- **Session 1: ** 2h 00m
+
+## Tasks Completed
+
+- [x] Section 7: IP Address Classes
+    - [x] IP Address Classes B and C
+    - [x] IP Address Classes D and E
+
+- [ ] Section 8: Subnetting
+    - [x] Introduction
+    - [x] CIDR Classless Inter-Domain Routing
+    - [x] Subnetting Overview
