@@ -375,7 +375,7 @@
 # 11/26/28:
 
 ## Time Logged
-- **Session 1: ** 2h 00m
+- **Session 1: ** 2h 30m
 
 ## Tasks Completed
 

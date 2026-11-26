@@ -262,3 +262,32 @@ This splitting of IP addresses into groups is callled **Subnetting**
 | C | `110` | `110xxxxx` | `11000000` → **192** | `11011111` → **223** | 192.0.0.0 – 223.255.255.255 |
 | D | `1110` | `1110xxxx` | `11100000` → **224** | `11101111` → **239** | 224.0.0.0 – 239.255.255.255 |
 | E | `1111` | `1111xxxx` | `11110000` → **240** | `11111111` → **255** | 240.0.0.0 – 255.255.255.255 |
+
+# 11/26/26 Neil Anderson Cisco CCNA 200-301 v 1.1 - The Complete Guide to Getting Certified Section 8: Subnetting - Mind Dump
+
+## Available Subnets
+
+if example subnet is 200.15.10.0/24
+
+and subnet mask is 28
+$\Leftrightarrow$ 200.15.10.0/28
+
+Then the borrowed bits are 
+s = 28 - 24 = 4
+
+$\therefore$ available subnets are
+
+$2^s$ = $2^4$ = 16 available subnets
+
+## Number of Hosts in Subnet
+
+200.15.10.0/28
+$\rightarrow$ 200.15.10.0/255.255.255.224
+$\rightarrow$ 11001000.00011001.00001010.000|0000
+
+$\therefore$ Range = 200.15.10.0 $\rightarrow$ 200.15.10.15
+
+$\therefore$
+network address = 200.15.10.0\
+broadcast address = 200.15.10.15\
+available hosts: x.1, x.2 ... x.14 $\rightarrow$ 14 hosts\
